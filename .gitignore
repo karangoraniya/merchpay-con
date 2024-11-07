@@ -1,0 +1,9 @@
+# Rust's output directory
+target
+
+# Local Soroban settings
+.soroban
+
+# Cargo.lock
+Cargo.lock
+packages
